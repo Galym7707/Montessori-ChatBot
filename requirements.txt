@@ -1,0 +1,7 @@
+torch
+transformers
+accelerate
+unsloth
+langchain-community
+chromadb
+sentence-transformers
